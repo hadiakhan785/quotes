@@ -3,7 +3,7 @@
 ## Languages and Tools
 - HTML
 - CSS
--JavaScript
+- JavaScript
 
 ##
 
